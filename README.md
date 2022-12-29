@@ -10,7 +10,7 @@
 * [qb-shops](https://github.com/qbcore-framework/qb-shops)
 
 ## Preview 
-* [Youtube](https://youtu.be/Up3c2moRw10)
+* [Youtube](https://youtu.be/87IJgNndQEg)
 
 ## Features
 * 0.00ms
