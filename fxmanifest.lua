@@ -3,7 +3,7 @@ game 'gta5'
 
 description 'Mr-Inventory'
 author "MrRebel#7457"
-version '1.2.0'
+version '1.2.1'
 
 shared_scripts {
     '@qb-core/shared/locale.lua',
