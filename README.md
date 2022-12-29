@@ -31,6 +31,7 @@
 * Make sure you have latest updated [qb-core](https://github.com/qbcore-framework/qb-core)
 * Make sure you have latest updated [qb-smallresources](https://github.com/qbcore-framework/qb-smallresources)
 * Make sure you have latest updated [qb-weapons](https://github.com/qbcore-framework/qb-weapons)
+* Add you images folder mr-inventory\html
 * Drag and Drop your [qb] folder
 * Start Server
 
