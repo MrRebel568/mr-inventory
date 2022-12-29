@@ -13,7 +13,7 @@
 * [Youtube](https://youtu.be/87IJgNndQEg)
 
 ## Features
-* 0.00ms
+* 0.01ms
 * Weight progress bar
 * Very Optimised
 * New Design
